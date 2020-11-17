@@ -19,3 +19,17 @@ Per poi creare le reti neurali per la mask detection sia per immagini che per vi
 ![alt text](https://github.com/giuseppemaiorano/Mask-Detection/blob/main/Cattura%20mask%20me%20stesso%20verde.JPG) ![alt text](https://github.com/giuseppemaiorano/Mask-Detection/blob/main/cattura%20mask%20me%20stesso%20rosso.JPG)
 
 ![alt text](https://github.com/giuseppemaiorano/Mask-Detection/blob/main/IMG_5282.jpg)
+
+![alt text](https://github.com/giuseppemaiorano/Mask-Detection/blob/main/IMG_5283.png)
+
+
+
+### Conclusioni e ringraziamenti 
+
+Per avere qualsiasi chiarimento a riguarddo su utilizzo di architetture, ottimizzatori ecc. potete contattarmi:
+
+LinkedIn: https://www.linkedin.com/in/giuseppe-maiorano-2ab92a1a0/detail/recent-activity/
+Instagram: https://www.instagram.com/magic_maio/
+Instagram secondo profilo: https://www.instagram.com/pythonismyfriend/
+
+Ringrazio i ragazzi di https://www.pyimagesearch.com/ per i dataset e il tutorial 
